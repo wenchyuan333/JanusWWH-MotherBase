@@ -1,0 +1,16 @@
+{
+  "system": "JanusWWH-MotherBase",
+  "version": "0.2.2",
+  "initialized": "2026-10-19",
+  "pillar_count": 6,
+  "pillars": {
+    "math": "formula-library/core",
+    "luoshu": "formula-library/luoshu",
+    "physics": "formula-library/calabi-yau",
+    "thermo": "formula-library/thermo",
+    "riemann": "formula-library/riemann",
+    "unification": "formula-library/unification"
+  },
+  "hash_chain": "core-mother/manifest.hash",
+  "status": "ACTIVE"
+}
